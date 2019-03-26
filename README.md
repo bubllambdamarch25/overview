@@ -8,6 +8,14 @@ Imagine a social platform that helps students transition from elementary school 
 
 User can create an account, join an existing school account, and search for existing bubls to join. They can explore interests through hashtag searches. They can connect with others and share experiences.
 
+### WEB
+
+- Sprint: WEB Unit 1 Build Week: User Interface
+- Module: Plan and Create a Website
+
+- Sprint: WEB Unit 2 Build Week: Front End
+- Module: Software Development Methodologies WEB
+
 ## Team
 
 ### UI Developer for Marketing Page
@@ -18,6 +26,15 @@ User can create an account, join an existing school account, and search for exis
 
 - Tristan Grovender
 
-### Project Manager
+### Backend API hosted at [https://bublmarch25.herokuapp.com/](https://bublmarch25.herokuapp.com/)
+
+- API Readme [github link](https://github.com/bubllambdamarch25/back-end/blob/master/README.md)
+
+### Team Lead
 
 - Sean Pheneger
+
+### Project Managers
+
+- Sean Pheneger
+- Phil Hart
